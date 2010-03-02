@@ -1,0 +1,23 @@
+#tweets{
+  width: 350px;
+  padding: 20px;
+  list-style-type: none;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  background-color: #000;
+  color: #FFF;
+}
+#tweets li{
+  display: block;
+  height: 50px;
+  margin: 10px 0;
+  clear: left;
+}
+#tweets img{
+  float: left;
+  margin-right: 5px;
+  border: none;
+}
+#tweets a{
+  color: #CCF;
+}
