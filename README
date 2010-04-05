@@ -1,1 +1,3 @@
-A really simple Twitter widget built in Javascript based on Ajax Spy (http://jqueryfordesigners.com/ajax-spy/) and Twitterlib (http://github.com/remy/twitterlib) 
+A really simple Twitter widget built in Javascript based on Ajax Spy (http://jqueryfordesigners.com/ajax-spy/) and Twitterlib (http://github.com/remy/twitterlib)
+
+The code basically works but someday I will find the time to clean it up, tidy up the files and write some proper documentation.
